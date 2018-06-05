@@ -1,0 +1,11 @@
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\LocalMail.exe.config
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\LocalMail.exe
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\LocalMail.pdb
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\Pop3.dll
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\obj\Debug\LocalMail.csprojResolveAssemblyReference.cache
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\obj\Debug\LocalMail.csproj.CoreCompileInputs.cache
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\obj\Debug\LocalMail.csproj.CopyComplete
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\obj\Debug\LocalMail.exe
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\obj\Debug\LocalMail.pdb
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\Newtonsoft.Json.dll
+C:\Users\СадыковаА\source\repos\LocalMail\LocalMail\bin\Debug\Newtonsoft.Json.xml
